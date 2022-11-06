@@ -1,5 +1,5 @@
-#ifndef PRINTF_H
-#define PRINTF_H
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdarg.h>
 #include <unistd.h>
@@ -26,8 +26,7 @@ int _printBinary(va_list inte);
 int _printUnsInt(va_list u_inte);
 int _printOctal(va_list oct);
 int _printHexaLower(va_list hL);
-int _printHexaUpper(va_list hU);A
-
+int _printHexaUpper(va_list hU);
 
 #endif /* #ifndef PRINTF_H */
 

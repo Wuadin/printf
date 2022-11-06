@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _printHexaUpper - print num base hexa.
+ * _printHexaLower - print num base hexa.
  * @hL: num to print base hexa Lower
  * Return: a pointer to the function.
  */

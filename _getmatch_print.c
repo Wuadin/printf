@@ -1,4 +1,4 @@
-#include "maim.h"
+#include "main.h"
 
 /**
  * _getmatch_print - selects the correct func to perform the operation
